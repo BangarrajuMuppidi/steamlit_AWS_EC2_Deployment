@@ -1,1 +1,1 @@
-# steamlit_AWS_EC2_Deployment
+# streamlit_AWS_EC2_Deployment
